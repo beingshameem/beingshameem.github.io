@@ -1,4 +1,11 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: azure;
+}
+
+.banner-container{
+    background-color: #CACACA;
+}
+
+.banner-column{
+    background-color: #8D8D8D;
 }
