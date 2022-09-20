@@ -4,8 +4,75 @@ body{
 
 .banner-container{
     background-color: #CACACA;
+    height: 100vh;
 }
 
 .banner-column{
     background-color: #8D8D8D;
+    margin: 20vh;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: black;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: azure;
+}
+
+.education-container{
+    background-color: #CACACA;
+}
+
+.edu-text{
+    color: blue;
+}
+
+.edu-bg{
+    background-color: aliceblue;
+}
+
+.circle{
+    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #ecacacdc;
+}
+
+.form-container{
+    background-color: black;
+}
+
+.form-color{
+    background-color: azure;
+}
+
+.btn-color{
+    background-color: #CACACA;
+}
+
+.btn-color:hover{
+    color: aqua!important;
+}
+
+.footer-container{
+    background-color: #F9F9F9;
+}
+
+.circle-sm{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgb(107, 226, 60);
+    font-size: 40px;
+    color: beige;
+    text-align: center;
 }
