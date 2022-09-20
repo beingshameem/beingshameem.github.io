@@ -3,12 +3,12 @@ body{
 }
 
 .banner-container{
-    background-color: #CACACA;
+    background-color:beige;
     height: 100vh;
 }
 
 .banner-column{
-    background-color: #8D8D8D;
+    background-color:rgba(204, 147, 147, 0.562);
     margin: 20vh;
 }
 
